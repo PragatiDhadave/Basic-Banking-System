@@ -1,0 +1,23 @@
+.navbar-nav{
+  font-family:'Times New Roman', serif;
+  border-radius: 5px;
+  outline: none;
+  border: 3px solid rgb(0, 0, 0);
+  color:rgb(255, 0, 0);
+  font-weight: bold;
+}
+#nav-bar
+{
+	background-color:rgb(81, 112, 123);/* Customer HEAD BG color */
+	position:static;
+	top:0;
+	z-index:10;
+}
+
+.nav-link {
+	background-color: rgba(255, 255, 255, 0.857);
+	font-family:'Times New Roman', serif;
+}
+a{
+	color:rgb(255, 0, 0);
+}
